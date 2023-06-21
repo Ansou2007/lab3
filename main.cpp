@@ -3,8 +3,9 @@ using namespace std;
 int main()
 {
 
-    //int a = 55;
+    // int a = 55;
     int b = 5;
+    int a;
     cout << "Mettre le premier nombre" << endl;
     cin >> a;
     cout << "La somme de a + b donne: " << a + b << endl;
